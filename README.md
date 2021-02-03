@@ -35,3 +35,9 @@ Aplicação aprensenta as ferramentas e práticas mais recentes em desenvolvimen
 2. Navegue até o diretório: `cd ui-clone-site-rocketseat`.<br />
 3. Rode `yarn` para instalar as dependências.<br />
 4. Rode `yarn start` para iniciar a aplicação em `http://localhost:3000`.
+
+<br>
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT.
